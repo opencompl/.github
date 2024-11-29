@@ -1,3 +1,5 @@
 # Compiler Research at The University of Cambridge
 
-For further information check out website at https://grosser.science/.
+This organization contains our research projects, collaborative research projects, as well as software that we develop for our community.
+
+For further information, check out our website at https://grosser.science/.
